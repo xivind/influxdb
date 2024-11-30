@@ -1,0 +1,654 @@
+Content from agenda pages at https://hl7norway.github.io/best-practice/
+==================================================
+
+
+
+=== https://hl7norway.github.io/best-practice/agenda/2020-11-04-agenda.html ===
+
+Møte i FHIR fagforum
+Dato: 2020-11-04
+Klokkeslett: 1300-1400
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt) (5 min)
+TNT til FFF (5 min)
+Diskusjon av
+navn
+og
+mandat
+(20 min)
+FHIR RESTful API (Kenneth) (20 min)
+Forslag til tema og deltakelse fremover (10 min)
+Navneforslag
+Alle kan stemme på eller komme med egne navneforslag. Avstemning foregår i
+issue #52
+Oppkobling til møte
+Skype møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2020-12-16-agenda.html ===
+
+Møte i FHIR fagforum
+Dato: 2020-12-16
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt) (3 min)
+Informasjon om valg av
+navn
+og
+mandat
+(5 min)
+Inntrykk fra FHIR Dev Days i november (Egde og Siemens Healthineers) (20 min)
+Informasjon fra HL7 Norge, nye basisprofiler og videre profilering på nasjonalt nivå (Øyvind 7 min)
+Kjernejournal tar i bruk modernisert folkeregister (30 min)
+Profilering og publisering med Forge, SIMPLIFIER og alternativer (30 min Thomas TR/Espen SS)
+Diskusjon (15 min)
+Innspill til tema (3 min)
+Eventuelt
+Oppkobling til møte
+Oppkobling via
+join.nhn.no
+Skriv navnet ditt.
+Møterom: vm.ehelse4320@vm.nhn.no
+Fallback løsning
+Skype, bare som fallback hvis Virtuelt rom over ikke fungerer.
+Skype møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-01-27-agenda.html ===
+
+Møte i FHIR fagforum
+Dato: 2021-01-27
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt)
+Informasjon fra HL7 Norge (Øyvind Aassve)
+Arbeid med standardisering for medisineringsfeltet internasjonalt (Espen S Seland) (10 min)
+SAFEST (Stine Johansen) (30 min)
+SFM (Dag Hammer og Ole Martin Winnem) (30 min)
+Diskusjon (15 min)
+Forslag til møteplan (5 min)
+Innspill til tema (5 min)
+Eventuelt
+Oppkobling til møte
+Oppkobling via
+join.nhn.no
+Skriv navnet ditt.
+Velg
+Video
+(ikke
+presentasjon
+)
+Møterom: vm.ehelse4320@vm.nhn.no
+Fallback løsning
+Skype, bare som fallback hvis Virtuelt rom over ikke fungerer.
+Skype møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-03-10-agenda.html ===
+
+Møte fire i FHIR fagforum
+Dato: 2021-03-10
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Forslag til Agenda
+Velkommen og presentasjonsrunde 5 min (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt)
+Informasjon om metode for utvikling av områdeprofiler 5 min (Thomas T Rosenlund)
+Dokument til kommentering, frist 12. mars
+Informasjon fra HL7 Norge 5 min (Øyvind Aassve)
+Behandlingsplan/CarePlan 30 min (Ingvar Sørlien)
+Besøksplan i VKP med Careplan 15 min (Jørn Sikkerbøl)
+Digitale behandlingsplaner med CarePlan 15 min (Vidar Mehti)
+Diskusjon 15 min
+Tarmscreening 30 min (Jon Aarbakke/Marten Smits?)
+Oppkobling til møte
+Oppkobling via
+join.nhn.no
+Skriv navnet ditt.
+Møterom: vm.ehelse4316@vm.nhn.no
+Fallback løsning
+Skype, bare som fallback hvis Virtuelt rom over ikke fungerer.
+Skype møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-04-21-agenda.html ===
+
+Møte fem i FHIR fagforum
+Dato: 2021-04-21
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt), Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge (WGM, profileringsworkshop, metode) Øyvind Aassve, Sykehuspartner (5 min)
+Konsept SMART, Lars Kristian Roland, Direktoratet for e-helse (15 min)
+Teori app launch framework, Kenneth Myhra, Incendi/NHN (20 min)
+Implementasjon av SMART i førerrett, Kristian Moum og Klaus Reinholt Andersen, Aspit (30 min)
+Micro frontends + SMART, Thor Stenbæk, DIPS (30 min)
+Eventuelt og diskusjon (15 min)
+Oppkobling til møte
+Oppkobling via
+join.nhn.no
+Skriv navnet ditt
+Trykk på “video”
+Skriv inn møterom “vm.ehelse4320@vm.nhn.no” og trykk videoikonet
+Fallback løsning
+Skype, bare som fallback hvis Virtuelt rom over ikke fungerer.
+Skype møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-06-02-agenda.html ===
+
+Møte seks i FHIR fagforum
+Dato: 2021-06-02
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt), Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge Øyvind Aassve, Sykehuspartner (5 min)
+Faglig om bruk av terminologi i FHIR, 30 min, Thomas T Rosenlund, Direktoratet for e-Helse
+Forslag til arkitekturmålbilde for terminologi som også understøtter FHIR, 20 min, Espen S. Seland, Direktoratet for e-Helse
+Faglig tema praktisk bruk av terminologi i koloskopi og terminologi-avklaringer, 30 min, Linn Brandt, Direktoratet for e-Helse
+Kahoot (Espen)
+Oppkobling til møte
+Oppkobling via
+join.nhn.no
+Skriv navnet ditt
+Trykk på “video”
+Skriv inn møterom “vm.ehelse4320@vm.nhn.no” og trykk videoikonet
+Fallback løsning
+Skype, bare som fallback hvis Virtuelt rom over ikke fungerer.
+Skype møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-09-01-agenda.html ===
+
+Møte syv i FHIR fagforum
+Dato: 2021-09-01
+Klokkeslett: 1300-1600
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt), Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Opptak av møter, diskusjon (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+Bekreftet
+Integrating a FHIR server in you architecture, Christiaan Knaap, Firely,
+FHIR server
+(40 min)
+MF-Helse, Trond Klakken og Tor Arne Gjelhus, Webstep (20 min)
+Kort pause (5 min)
+Microsoft FHIR server, sky, Magnar Wium, Helsedirektoratet (20 min)
+SmileCDR erfaringer, plattform og arkitektur valg, Andy Harrison, Egde (20 min)
+Kjernejournal erfaring med FHIR fasade, Vidar Methi, Kjernejournal, NHN (20 min)
+Diskusjon og eventuelt
+Oppkobling til møte
+Koble opp til
+Teams møte
+Kalender
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-10-20-agenda.html ===
+
+Møte åtte i FHIR fagforum
+Dato: 2021-10-20
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda Tema FHIR build pipeline
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt), Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge Øyvind Aassve, Sykehuspartner (5 min)
+Intro til dokumentasjon/profileringspipeline, Thomas Tveit Rosenlund, Direktoratet for e-Helse (20 min)
+Build pipeline med FSH, Eirik Myklebost, NAV (40 min)
+Spark rammeverket muligheter og demo, implementerer et API endepunkt, Kenneth Myhra, NHN (40 min)
+Eventuelt
+Oppkobling til møte
+Koble opp til
+Teams møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2021-12-01-agenda.html ===
+
+Møte ni i FHIR fagforum
+Dato: 2021-12-01
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda Tema FHIR Prosjekter
+Velkommen og presentasjonsrunde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosjekt), Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+FHIR ny timetjeneste på HelseNorge. Prosjekt Mine timeavtaler (HSØ/NHN) presenterer ved Tore Bjerke Sykehuspartner og Øyvind Aassve, Sykehuspartner (40 min)
+Skyløsninger, standardiserte integrasjonsgrensesnitt og variabeldefinisjoner, Einar Martin Aandahl og Odd Christian Landmark, Ledidi AS (20 min)
+NILAR status på FHIR arbeidet, Annebeth Askevold, Direktoratet for e-helse og prosjektdeltaker fra NHN (30 min)
+Julequiz
+Eventuelt
+Oppkobling til møte
+Koble opp til
+Teams møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2022-02-02-agenda.html ===
+
+Møte ti i FHIR fagforum
+Dato: 2022-02-02
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda Tema Legemidler og medikasjon
+Velkommen og presentasjonsrunde, Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+SFM og FHIR erfaringer, Dag Hammer Norsk Helsenett (30 min)
+Webmed integrasjon med SFM og erfaringer, Webmed (30 min)
+Ibruktakelse av SAFEST i et nasjonalt perspektiv, Elin May Merry og Bernd Moeske, Helse Sør-Øst (30 min)
+Oppsummering fra WGM, Øyvind, Espen og Thomas (10 min)
+Eventuelt
+Oppkobling til møte
+Koble opp til
+Teams møte
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2022-03-16-agenda.html ===
+
+Møte 11 i FHIR fagforum
+Dato: 2022-03-16
+Klokkeslett: 1300-1430
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Elektronisk dødsmelding
+Velkommen og presentasjonsrunde, Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+Elektronisk dødsmelding FHIR API, Hilde Janie Melfoss, Norsk Helsenett (30 min)
+HL7 Norge åpenhet, smidig og transparens, Espen og Thomas (15 min)
+Eventuelt og diskusjon
+Oppkobling til møte
+Koble opp til
+Teams
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2022-05-11-agenda.html ===
+
+Møte 12 i FHIR fagforum
+Dato: 2022-05-11
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Terminologi on FHIR
+Velkommen og presentasjonsrunde, Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+Intro til FHIR og terminologi, Espen S Seland, Direktoratet for e-helse (15 min)
+Teknisk infrastruktur og bruk av felles språk, Jørn Andre Jørgensen, Direktoratet for e-helse (30 min)
+Praktisk bruk av SNOMED CT i Digital Hjemmeoppfølging, Thomas T Rosenlund, Direktoratet for e-helse (15 min)
+Strategi og prinsipper for semantisk samhandlingsevne, Øyvind Aassve, Sykehuspartner (25 min)
+Eventuelt og diskusjon
+Oppkobling til møte
+Koble opp til
+Teams
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2022-08-31-agenda.html ===
+
+Møte 13 i FHIR fagforum
+Dato: 2022-08-31
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Sikkerhet og logging
+Velkommen og presentasjonsrunde, Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+Intro til arkitektur for sikkerhet og logging og relevante FHIR ressurser, Thomas T Rosenlund, Direktoratet for e-helse (10 min)
+HelseID, Autentisering og autorisering av API tilgang, NHN, Dag Østerhagen (30 min)
+AuditEvent og loggoppslag, Trond Elde, DIPS, Richard Husevåg, HSØ, Helge Grimnes, OUS (40 min)
+Eventuelt og diskusjon
+Oppkobling til møte
+Koble opp til
+Teams
+Bli med på en videokonferanseenhet
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 122 249 462 4
+Kalender
+Ical kommer
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2022-10-12-agenda.html ===
+
+AVLYST! Møte 14 i FHIR fagforum
+Dato: 2022-10-12
+Klokkeslett: 1300-1430
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Møtet er avlyst
+
+=== https://hl7norway.github.io/best-practice/agenda/2022-11-30-agenda.html ===
+
+Møte 15 i FHIR fagforum
+Dato: 2022-11-30
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Erfaringer med FHIR
+Velkommen og presentasjonsrunde, Thomas T Rosenlund, Direktoratet for e-helse (5 min)
+Informasjon fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+Pasientens prøvesvar (NILAR), Ivar Yrke, NHN (30 min)
+Digital behandling og egenbehandlingsplan, Vidar Methi NHN, Norsk Helsenett/Helsedirektoratet (30 min)
+Klinikere “on FHIR”! - Hvordan et API kan skape glede og trygghet i helsetjenesten - SAFEST. Kristine Aasen, Statens legemiddelverk og Bernd Moeske, Sykehuspartner. (30-40 min)
+Eventuelt og diskusjon
+Oppkobling til møte
+Koble opp til
+Teams
+Bli med på en videokonferanseenhet
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 127 291 293 4
+Kalender
+Ical kommer
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2023-02-08-agenda.html ===
+
+Møte 16 i FHIR fagforum
+Dato: 2023-02-08
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda Nordic projects
+Intro (5 min)
+HL7 Norway info (5 min)
+Mikael Rinnetmäki, Finland (20 min)
+Nordic IPA, harmonizing the national base profiles of the Nordic countries
+FHIR Demo, experiences from 2022, info on joint effort for 2023
+Jens Villadsen, Denmark (30 min)
+Fælles Udbredelse af Telemedicin (FUT) is a Danish national healthcare platform aimed for telemedicine use that can host 3rd-party apps communicating using HL7 FHIR API
+Michael Johanson, Denmark (30 min)
+Transition from legacy to FHIR. EDIfact and XML, you are FHIR’ed!
+Messaging paradigm partly change for documentsharing and REST-services
+Emmeli Gross, Sweden (20 min)
+Swedish base profiles
+Swedish E-health Agency work on FHIR in the National Swedish Medication List
+Discussions (10 min)
+Oppkobling til møte
+Koble opp til
+Teams
+Join on the web
+Møte-ID: 367 380 383 38 Passord: AcZg2s
+Join on the web
+Bli med på en videokonferanseenhet
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 126 019 479 3
+Kalender
+Ical kommer
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2023-03-29-agenda.html ===
+
+Møte 17 i FHIR fagforum
+Dato: 2023-03-29
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: Gravitate Health and CAPABLE
+Intro and HL7 Norway Thomas T Rosenlund & Øyvind Aassve (5 min)
+Gravitate health intro, Anne Moen, UiO (5 min)
+FHIR resources used in Gravitate-Health; IGs and opportunities from participation in HL7 accelerators to expedite transition - Craig Anderson Pfizer and Catherine Chronaki, HL7 Europe (25 min)
+Collaboration activities to populate EU ePI Common Standard (where HL7 ePI IG plays a role) - contributions by Adam Kover, Felleskatalogen, CAPABLE and Gravitate-Health (25 min)
+CAPABLE use of HL7 FHIR, including EU ePI Common Standard to support Gravitate-Health testing scenarios Petter Hurlen, AHUS and Knut Skifjeld, Norsk e-helse (25 min)
+Open DIPS: An open developer sandbox for digital healtchare innovations, Bjørn Fjukstad, DIPS (25 min)
+Eventuelt og diskusjon (10 min)
+Oppkobling til møte
+Koble opp til
+Teams
+Join on the web
+Møte-ID: 394 350 708 104
+Passord: NtAoy2
+Join on the web
+Bli med på en videokonferanseenhet
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 123 145 034 3
+Kalender
+ical møteinkalling
+Påmelding er ikke nødvendig.
+
+=== https://hl7norway.github.io/best-practice/agenda/2023-05-24-agenda.html ===
+
+Møte 18 i FHIR fagforum
+Dato: 2023-05-24
+Klokkeslett: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: FHIR infrastruktur og arkitektur
+Velkommen, Thomas Tveit Rosenlund, Direktoratet for e-helse (10 min)
+Info fra HL7 Norge, Øyvind AAssve, Sykehuspartner (5 min)
+Pasientsentrisk plattform for helsedata, Ingvar Sørlien, Siemens Healthineers (30 min)
+Pasientens måledata – en oppfølger til Pasientens prøvesvar, Ivar Yrke, Norsk Helsenett (30 min)
+FHIR facade og health gateway, Andy Harrison, Egde (30 min)
+Eventuelt og diskusjon (15 min)
+Oppkobling til møte
+Koble opp til
+Teams
+Join on the web
+Møte-ID: 355 593 305 104
+Passord: b5PmCj
+Join on the web
+Bli med på en videokonferanseenhet
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 121 294 137 4
+Kalender
+ical møteinkalling
+
+=== https://hl7norway.github.io/best-practice/agenda/2023-08-30-agenda.html ===
+
+Meeting 19 FHIR fagforum
+Date: 2023-08-30
+Time: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: FHIR R5
+Welcome, Thomas Tveit Rosenlund, Direktoratet for e-helse (5 min)
+FHIR R5, Grahame Grieve, Health Intersections/FHIR product director (90 min)
+Q&A
+Connect to the meeting
+Teams connection
+Join on the web
+Møte-ID: 312 680 593 965
+Passord: GZQFLf
+Join on the web
+From a video conferencing unit
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 129 131 960 6
+Calendar
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2023-10-18-agenda.html ===
+
+Meeting 20 FHIR fagforum
+Date: 2023-10-18
+Time: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: FHIR capabilities in EPIC and Helseplattformen
+Welcome, Thomas Tveit Rosenlund, Direktoratet for e-helse (5 min)
+Info from HL7 Norge Øyvind Aassve, Sykehuspartner (5min)
+Epic FHIR capabilities and global implementation experience, Sam Echevarria and Cody Bloom, Epic (60 min)
+Helseplattformen and FHIR, Eigil Gotaas, A2/Helseplattformen (30 min)
+Q&A
+Connect to the meeting
+Teams connection
+Join on the web
+Møte-ID: 399 484 659 272
+Passord: VfLoqV
+Join on the web
+From a videoconference device
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 124 682 401 8
+Alternative VTC-instruksjoner
+Calendar
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2023-11-29-agenda.html ===
+
+Møte 21 FHIR fagforum
+Date: 2023-11-29
+Time: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: FHIR og terminologi
+Velkommen, Thomas Tveit Rosenlund, Direktoratet for e-helse (5 min)
+Info fra HL7 Norge Øyvind Aassve, Sykehuspartner (5min)
+Krasjkurs om terminologi i FHIR, Espen Stranger Seland, Vali AS (15 min)
+Vitale parametere behov, verdisett og implementasjon i DIPS, Terje Bless og Lars Andreas Nystad, Helse-nord RHF/DIPS ASA (20 min)
+Vitale-parametere, verdisett og SNOMED CT release, Karol Hårsaker (Styrmand AS) og Ulrich Lichtenstein Sønderskov Andersen (NNIT AS) (25 min)
+Helse-NIM - hvordan skal terminologien fungere i nasjonale informasjonsmodeller, Linn Brandt (Direktoratet for e-helse) (20 min)
+no-domain terminologimetode - Thomas T Rosenlund, Direktoratet for e-Helse (15 min)
+Q&A
+Connect to the meeting
+Teams connection
+Join on the web
+Join on the web
+Bli med fra datamaskinen, mobilappen eller romenheten
+Møte-ID: 322 253 387 18
+Passord: sXmDEj
+Bli med på en videokonferanseenhet
+ehelse@ptc.nhn.no
+Videokonferanse-ID: 129 168 729 1
+Alternative VTC-instruksjoner
+Calendar
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2024-02-07-agenda.html ===
+
+Møte 22 FHIR fagforum
+Date: 2024-02-07
+Time: 1300-1500
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: Observation og målinger on FHIR
+Introduksjon, jus og ulike FHIR profiler/prosjekter på området, Thomas T Rosenlund, Helsedirektoratet (10 min)
+Info fra HL7 Norge, Øyvind Aassve, Sykehuspartner (5 min)
+Behov for samhandling fra Bodø kommune og Nordlandssykehuset, Vibeke Tellmann fra Bodø kommune og Merete Johansen fra Nordlandssykehuset (30 min)
+Velferdsteknologisk knutepunkt og Pasientens måledata, Jon Nordahl Didriksen NHN, (30 min)
+Personal Health Gateway og internasjonale IG’er på MTU, Øyvind Aassve, Sykehuspartner (30 min)
+Diskusjon og spørsmål (15 min)
+Connect to the meeting
+Bli med fra datamaskinen, mobilappen eller romenheten
+Klikk her for å bli med i møtet
+Møte-ID: 335 326 732 110
+Passord: nKZhyd
+Bli med på en videokonferanseenhet
+hdir@ptc.nhn.no
+Videokonferanse-ID: 123 535 971 1
+Calendar
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2024-04-17-agenda.html ===
+
+Meeting 23 FHIR fagforum
+Date: 2024-04-17
+Time: 1300-1500 CET
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: HL7 FHIR in Europe
+Info from HL7 Norway and welcome, Thomas og Øyvind 10 min
+General intro about HL7 Europe and international, Line A Sæle (FHI) 10 min
+European laboratory report IG, Giorgio Cangioli (HL7 Europe) 30 min
+Hospitals on FHIR med Luc Chatty (Fyrstian) 30 min
+Standardization activities in Europe and international, Mari Svardal og Kerstin Engelhardt (The Norwegian directorate of Health) 25 min
+Q&A, 15 min
+Teams connection
+Join from computer, mobile or app.
+Klikk her for å bli med i møtet
+Møte-ID: 314 676 290 434
+Passord: cd6VrC
+Bli med på en videokonferanseenhet
+hdir@ptc.nhn.no
+Videokonferanse-ID: 126 678 494 5
+Alternative VTC-instruksjoner
+Eller ring inn (bare lyd)
++47 23 88 41 25,,541278321#
+Norway, Oslo
+Telefonkonferanse-ID: 541 278 321#
+
+=== https://hl7norway.github.io/best-practice/agenda/2024-06-12-agenda.html ===
+
+Meeting 24 FHIR fagforum
+Date: 2024-06-12
+Time: 1300-1500 CET
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: Nordic base and core profiles
+Info from HL7 Norway and welcome to fagforum, Thomas og Øyvind 10 min
+Finnish base profiles, Mikael Rinnetmäki (HL7 Finland) 25 min
+Danish base profiles, Michael Johansen (MedCom) 25 min
+Swedish base profiles, Daniel Karlsson (E-hälsomyndigheten) 25 min
+Norwegian base profiles, Thomas T Rosenlund (Helsedirektoratet) 10 min
+New base profiles for AuditEvent, Trond Elde (DIPS AS), 15 min
+Discussion 10 min
+Calendar event
+Connection details in the ical-event.
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2024-08-28-agenda.html ===
+
+Meeting 25 FHIR fagforum
+Date: 2024-08-28
+Time: 1300-1500 CET
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: SMART on FHIR
+Info from HL7 Norway and welcome to fagforum, Thomas og Øyvind 10 min
+Webmed implementasjon av SMART on FHIR, Jarle Hjortland (Webmed AS) 25 min
+NAV sitt arbeid med SMART on FHIR, Erik Haug og Leo-Andreas Ervik (NAV) 25 min
+DIPS sitt arbeid med SMART on FHIR, Sverre Coucheron (DIPS AS) 20 min
+Helsedirektoratet sitt arbeid med SMART on FHIR, Merete Lassen og Frank Braathen (Helsedirektoratet) 20 min
+Finnish IG on SMART on FHIR, Mikael Rinnetmaki (HL7 Finland), 10 min
+Discussion 10 min
+Calendar event
+Connection details in the ical-event.
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2024-10-16-agenda.html ===
+
+Meeting 26 FHIR fagforum
+Date: 2024-10-16
+Time: 1300-1500 CET
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: Legemidler
+Info from HL7 Norway and welcome to fagforum, Thomas og Øyvind 10 min
+Oppstart HelseNIM for legemidler, Martha Schei Hynne (Helsedirektoratet), 5 minutter
+FHIR-data fra DMP, Berndt Moeske og Kristine Aasen (DMP), 30 minutter
+Retningslinjer finansieringsinformasjon knyttet til legemidler, Trond Andre Aag (Sykehuspartner), 30 minutter
+Legemiddeldata fra institusjon til legemiddelregisteret, Espen Stranger Seland (Vali AS), 30 minutter
+Q&A 10 minutter
+Calendar event
+Connection details in the ical-event.
+Ical meeting
+
+=== https://hl7norway.github.io/best-practice/agenda/2024-11-27-agenda.html ===
+
+Meeting 27 FHIR fagforum
+Date: 2024-11-27
+Time: 1300-1500 CET
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+Agenda: Europa og Helsedirektoratet, med fysisk meetup
+Denne gangen blir det mulighet for å møte fysisk i Helsedirektoratet sine lokaler på Skøyen (Verkstedveien 1). Henvend deg i resepsjonen (Spør etter Thomas T Rosenlund, Helsedirektoratet) ca 5 minutter før møtestart siden dere må følges opp til Helsedirektoratet sine lokaler. Det blir også sosialt meetup etter fagforum på Peloton Skøyen for de som vil. Gi gjerne beskjed om deltakelse på sosialt så vi kan bestille et passende bord.
+Velkommen og info fra HL7 Norge, Thomas og Øyvind 10 min
+EHDS arbeidet og FHIR i EHDS spesifikasjoner, Arne Dybdahl (Helsedirektoratet), 30 min
+HelseNIM og arbeid med europeiske implementasjonsguider, Linn Brandt (Helsedirektoratet), 30 min
+International Birth And Child Model Implementation Guide, Minna Hernandez (Helsedirektoratet), 20 min
+Q&A 10 minutter
+Ca klokken 15: Etter møtet blir det fysisk meetup på Peloton på Skøyen. Alle er velkommen til å ta en øl og en matbit (for egen regning).
+Calendar event
+Connection details in the ical-event.
+Ical meeting
+Ical for HL7 Norge meetup etter fagforum
+
+=== https://hl7norway.github.io/best-practice/agenda/2025-02-xx-agenda.html ===
+
+Meeting 28 FHIR fagforum
+Date: 2024-02-XX
+Time: 1300-1500 CET
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.

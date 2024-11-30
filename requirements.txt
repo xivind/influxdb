@@ -11,3 +11,4 @@ fastapi
 uvicorn
 pydantic
 pydantic-settings
+icecream

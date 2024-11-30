@@ -10,7 +10,7 @@ import json
 from .utils import read_json_file
 
 CONFIG = read_json_file('app/config.json')
-SECRETS = read_json_file('secrets.json') 
+SECRETS = read_json_file('secrets.json')
 
 # Initialize OpenAI API client
 client = AsyncOpenAI(api_key=SECRETS['openai_api_key'])
